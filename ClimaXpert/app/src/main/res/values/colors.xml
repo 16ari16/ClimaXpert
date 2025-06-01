@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_bc">#EFEFEF</color>
+
+    <color name="white_text">#FFFFFF</color>
+    <color name="dark_text">#363B64</color>
+    <color name="gray_text">#A098AE</color>
+
+    <color name="grad_first">#3C6FD1</color>
+    <color name="grad_second">#3C6FD1</color>
+    <color name="grad_third">#7CA9FF</color>
+
+    <color name="grad_blue_first">#c6d7fb</color>
+    <color name="grad_blue_second">#e5edfc</color>
+</resources>
